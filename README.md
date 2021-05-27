@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Michael 👋
 
-<!--
-**pieperm/pieperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at Missouri University of Science and Technology studying computer science.
+I'm in my third year of study and plan to graduate with a master's degree over the course of the next year.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am the Chief Software Engineer of S&T's Multirotor Design Team. We use computer vision and autonomous navigation to fly drones. 
+I'm also currently interning for Object Computing doing web development.
+
+### 🔭 My Interests
+
+- Robotics
+- Computer vision
+- Machine learning
+- Web development
+
+Thanks for stopping by!
