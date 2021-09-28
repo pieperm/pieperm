@@ -5,7 +5,6 @@ After three years, I have graduated with my bachelor's degree, and over the cour
 
 
 I am the Chief Technical Officer of S&T's Multirotor Design Team. We use computer vision and autonomous navigation to fly drones. 
-I'm also currently interning for Object Computing doing web development.
 
 ### 🔭 My Interests
 
